@@ -1,4 +1,4 @@
-name: scrapy
+name: scrapySCRAPE
 
 on:
   push:
