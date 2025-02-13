@@ -1,6 +1,9 @@
 name: scrape-wikipedia
 
 on:
+  label:
+    types:
+      - created
   push:
     branches:
       - master
