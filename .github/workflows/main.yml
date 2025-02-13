@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - test
   schedule:
     - cron: "0 */5 * * *"
 
